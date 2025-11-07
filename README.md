@@ -1,40 +1,64 @@
-# Idea Flame
+![Idea Flame Banner](public/idea-flame-banner.png)
 
-A React-based canvas application built with modern web technologies.
+**Draw. Connect. Create.**  
+Idea Flame is a modern, minimal, and real-time collaborative **whiteboard app** built with React, Supabase, and Tailwind CSS.  
+Think of it as your online creative canvas — where ideas ignite together. ⚡  
 
-## Installation
+![Demo Screenshot](<!-- screenshot URL -->)
 
-1. Clone the repository:
-   ```sh
-   git clone <>
-   cd unison-canvas
-   ```
+---
 
-2. Install dependencies:
-   ```sh
-   bun install
-   ```
+## 🌐 Live Demo
+👉 **Try it here:** [<!-- Add your deployment link here -->]()
 
-3. Start the development server:
-   ```sh
-   bun  dev
-   ```
+---
 
-## Technologies Used
+## 🚀 Features
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+✅ **Real-Time Collaboration** — Draw together with others using Supabase Realtime  
+✅ **Multi-User Cursors** — See everyone’s cursor and name in real time  
+✅ **Smooth Drawing Tools** — Brush, color picker, and eraser with natural strokes  
+✅ **Persistent Canvas** — Every stroke auto-saves to the cloud  
+✅ **Responsive Layout** — Works seamlessly on desktop and tablet  
+✅ **Beautiful UI** — Built with [shadcn/ui](https://ui.shadcn.com/) & Tailwind CSS  
 
-## Deployment
+---
 
-The app is deployed on [Vercel](https://vercel.com/). You can access it at [https://unison-canvas.vercel.app/](https://unison-canvas.vercel.app/).
+## 🧠 Tech Stack
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+| Layer | Technology |
+|:------|:------------|
+| **Frontend** | React + TypeScript + Vite |
+| **Styling** | Tailwind CSS + shadcn/ui |
+| **Realtime Backend** | Supabase Realtime + Postgres |
+| **Build Tool** | Bun / npm / Vite |
+| **Hosting** | *(To be deployed)* |
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
+## ⚙️ Installation & Setup
+
+> You can run this project locally using **Bun**, **npm**, or **yarn**.  
+
+### 🪄 1. Clone the repository
+```bash
+git clone https://github.com/FL4ME-SUVO/idea-flame.git
+cd idea-flame
+### 📦 2. Install dependencies
+bun install # or npm install or yarn install
+```
+### 🏃‍♂️ 3. Start the development server
+```bash
+bun dev # or npm run dev or yarn dev
+```
+Open `http://localhost:8080` in your browser. 
+
+---
+## 🤝 Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
