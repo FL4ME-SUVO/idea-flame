@@ -4,12 +4,12 @@
 Idea Flame is a modern, minimal, and real-time collaborative **whiteboard app** built with React, Supabase, and Tailwind CSS.  
 Think of it as your online creative canvas — where ideas ignite together. ⚡  
 
-![Demo Screenshot](<!-- screenshot URL -->)
+![Demo Screenshot](public/demo.png)
 
 ---
 
 ## 🌐 Live Demo
-👉 **Try it here:** [<!-- Add your deployment link here -->]()
+👉 **Try it here:** [https://idea-flame-one.vercel.app/]()
 
 ---
 
