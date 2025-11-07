@@ -44,8 +44,12 @@ Think of it as your online creative canvas — where ideas ignite together. ⚡
 ```bash
 git clone https://github.com/FL4ME-SUVO/idea-flame.git
 cd idea-flame
+```
+
 ### 📦 2. Install dependencies
+```bash
 bun install # or npm install or yarn install
+
 ```
 ### 🏃‍♂️ 3. Start the development server
 ```bash
